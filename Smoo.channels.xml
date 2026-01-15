@@ -85,7 +85,27 @@
     <channel id="Smoo.Jordan_TV">1:0:1:70A:1FA:2BE:1040000:0:0:0</channel>
     <channel id="Smoo.Roya">1:0:19:50E2:816:E0:1040000:0:0:0</channel>
 
-    <channel id="Smoo.HBO_East">1:0:1:0:0:0:0:0:0:0</channel>
-    <channel id="Smoo.BBC_One">1:0:19:4484:1000:1:CFDACE7:0:0:0</channel>
-    <channel id="Smoo.Sky_Cinema_Action">1:0:1:0:0:0:0:0:0:0</channel>
+    <channel id="Smoo.HBO_PL">1:0:1:E61:1C48:13E:820000:0:0:0</channel>
+    <channel id="Smoo.HBO2_PL">1:0:1:E62:1C48:13E:820000:0:0:0</channel>
+    <channel id="Smoo.HBO3_PL">1:0:1:10CC:10D:13E:820000:0:0:0</channel>
+    <channel id="Smoo.CanalPlus_Film">1:0:1:1132:2BB4:13E:820000:0:0:0</channel>
+    <channel id="Smoo.AleKino">1:0:1:3A35:514:13E:820000:0:0:0</channel>
+
+    <channel id="Smoo.HBO_Adria">1:0:1:259:19A:16E:A00000:0:0:0</channel>
+    <channel id="Smoo.HBO2_Adria">1:0:1:25A:19A:16E:A00000:0:0:0</channel>
+    <channel id="Smoo.HBO3_Adria">1:0:1:25B:19A:16E:A00000:0:0:0</channel>
+    <channel id="Smoo.Cinestar_Premiere1">1:0:1:262:19A:16E:A00000:0:0:0</channel>
+
+    <channel id="Smoo.Sky_Cinema_Prem_DE">1:0:19:83:6:85:C00000:0:0:0</channel>
+    <channel id="Smoo.Sky_Cinema_Action_DE">1:0:19:74:6:85:C00000:0:0:0</channel>
+    <channel id="Smoo.Sky_Cinema_Family_DE">1:0:19:75:6:85:C00000:0:0:0</channel>
+    <channel id="Smoo.CanalPlus_FR">1:0:19:2261:438:1:C00000:0:0:0</channel>
+    <channel id="Smoo.CanalPlus_Cinema_FR">1:0:19:2263:438:1:C00000:0:0:0</channel>
+    <channel id="Smoo.CinePlus_Frisson">1:0:19:2267:438:1:C00000:0:0:0</channel>
+    <channel id="Smoo.M_Estrenos">1:0:19:785E:41A:1:C00000:0:0:0</channel>
+    <channel id="Smoo.M_Accion">1:0:19:750F:420:1:C00000:0:0:0</channel>
+
+    <channel id="Smoo.Sky_Cinema_Action_UK">1:0:19:F09:7F1:2:11A0000:0:0:0</channel>
+    <channel id="Smoo.Sky_Cinema_Comedy_UK">1:0:19:F0A:7F1:2:11A0000:0:0:0</channel>
+    <channel id="Smoo.Film4">1:0:1:2472:7F3:2:11A0000:0:0:0</channel>
 </channels>
